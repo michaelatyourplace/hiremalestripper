@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Complete guide to planning bachelorette parties in Charleston SC. Get expert tips, itinerary ideas, venue recommendations, and everything you need for an unforgettable last fling before the ring.">
+    <title>Charleston Bachelorette Party Guide | Planning the Perfect Bach Weekend</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header {
+            background: linear-gradient(135deg, #e94560 0%, #c41e3a 100%);
+            color: #fff;
+            padding: 2.5rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            font-size: 2.3rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .breadcrumb {
+            max-width: 1200px;
+            margin: 1rem auto;
+            padding: 0 2rem;
+            font-size: 0.95rem;
+        }
+        .breadcrumb a {
+            color: #16213e;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        .intro-section {
+            background: white;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .intro-section p {
+            margin-bottom: 1rem;
+            font-size: 1.05rem;
+        }
+        .cta-box {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        .cta-box h3 {
+            font-size: 1.5rem;
+            margin-bottom: 0.8rem;
+        }
+        .cta-box p {
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #16213e;
+            padding: 0.8rem 2rem;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .content-section {
+            background: white;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .content-section h2 {
+            color: #e94560;
+            margin-bottom: 1.2rem;
+            font-size: 1.7rem;
+            border-bottom: 3px solid #16213e;
+            padding-bottom: 0.5rem;
+        }
+        .content-section h3 {
+            color: #16213e;
+            margin: 1.3rem 0 0.8rem 0;
+            font-size: 1.3rem;
+        }
+        .content-section p {
+            margin-bottom: 1rem;
+            font-size: 1.05rem;
+            line-height: 1.8;
+        }
+        .content-section ul {
+            margin: 1rem 0 1rem 2rem;
+        }
+        .content-section li {
+            margin-bottom: 0.5rem;
+            font-size: 1.05rem;
+        }
+        .itinerary-box {
+            background: #fff0f5;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+            border-left: 4px solid #e94560;
+        }
+        .itinerary-box h4 {
+            color: #e94560;
+            margin-bottom: 0.8rem;
+            font-size: 1.2rem;
+        }
+        .itinerary-box p {
+            margin-bottom: 0.5rem;
+        }
+        .pro-tip {
+            background: #e8f4f8;
+            padding: 1.2rem;
+            border-radius: 8px;
+            margin: 1.2rem 0;
+            border-left: 4px solid #0077be;
+        }
+        .pro-tip strong {
+            color: #0077be;
+        }
+        .related-links {
+            background: #f5f5f5;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+        .related-links h3 {
+            color: #16213e;
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+        }
+        .related-links ul {
+            list-style: none;
+            padding: 0;
+        }
+        .related-links li {
+            margin-bottom: 0.8rem;
+        }
+        .related-links a {
+            color: #e94560;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.05rem;
+        }
+        .related-links a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background: #1a1a2e;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+        footer a {
+            color: #e94560;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Charleston Bachelorette Party Guide</h1>
+        <p>Everything you need to plan the ultimate last fling before the ring</p>
+    </header>
+
+    <div class="breadcrumb">
+        <a href="index.html">Charleston Events</a> > Bachelorette Party Guide
+    </div>
+
+    <div class="container">
+        <section class="intro-section">
+            <p>Charleston consistently ranks among America's top bachelorette party destinations, and for good reason. The Holy City delivers the perfect combination of Southern charm, vibrant nightlife, beautiful beaches, world-class dining, and endless entertainment options that make it ideal for celebrating the bride-to-be. Whether you're planning a wild weekend of partying or a more refined celebration, Charleston accommodates every bachelorette style.</p>
+            <p>This comprehensive guide provides everything you need to plan an unforgettable Charleston bachelorette party. From choosing the perfect weekend to coordinating activities, managing logistics, and creating memorable experiences, we'll walk you through the planning process step by step. Get ready to give the bride-to-be a Charleston bachelorette weekend she'll never forget.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Why Charleston is Perfect for Bachelorette Parties</h2>
+            <p>Understanding what makes Charleston special helps you leverage the city's unique advantages when planning your bachelorette celebration.</p>
+            
+            <h3>Unbeatable Variety</h3>
+            <p>Charleston offers something for every type of bachelorette group. Want high-energy nightlife and dance clubs? Upper King Street delivers. Prefer sophisticated cocktail lounges and rooftop bars? The historic district has you covered. Looking for beach vibes? Three nearby beaches provide coastal options. This variety means you can create bachelorette experiences perfectly suited to the bride's personality rather than forcing her celebration into a one-size-fits-all mold.</p>
+            
+            <h3>Compact and Walkable</h3>
+            <p>Downtown Charleston's walkability is a massive advantage for bachelorette parties. You can hit multiple bars, restaurants, and venues without coordinating complicated transportation. This keeps the group together, maintains energy and momentum, and simplifies logistics that can derail less organized celebrations. The ability to seamlessly move from venue to venue creates the flow that characterizes great bachelorette weekends.</p>
+            
+            <h3>Instagram-Worthy Beauty</h3>
+            <p>Every bachelorette group wants amazing photos, and Charleston delivers stunning backdrops at every turn. Historic architecture, colorful Rainbow Row, Spanish moss-draped trees, waterfront views, beautiful beaches—the city provides endless photo opportunities. These pictures become treasured memories and social media gold that extends your celebration's impact far beyond the weekend itself.</p>
+            
+            <h3>Southern Hospitality</h3>
+            <p>Charleston's famous hospitality makes bachelorette groups feel welcome rather than tolerated. Service industry professionals understand celebrations and go out of their way to enhance special occasions. This welcoming atmosphere means you can embrace typical bachelorette party energy without feeling judged or unwanted, creating a more enjoyable and less stressful experience for everyone.</p>
+        </section>
+
+        <div class="cta-box">
+            <h3>Make Her Last Fling Legendary</h3>
+            <p>Premium entertainment services designed specifically for bachelorette celebrations</p>
+            <a href="https://michaelatyourplace.com" class="cta-button">Book Entertainment</a>
+        </div>
+
+        <section class="content-section">
+            <h2>Choosing Your Bachelorette Weekend Dates</h2>
+            <p>Timing significantly impacts your Charleston bachelorette experience. Strategic date selection optimizes weather, crowds, and costs.</p>
+            
+            <h3>Peak Bachelorette Season (March-May, September-November)</h3>
+            <p>Spring and fall represent peak bachelorette season in Charleston, offering ideal weather without summer's intense heat. These months bring beautiful temperatures perfect for combining beach activities with nightlife. However, popularity means more crowds, higher accommodation costs, and increased competition for reservations. Book well in advance if targeting peak season dates, ideally 3-4 months ahead for larger groups.</p>
+            
+            <h3>Summer Considerations (June-August)</h3>
+            <p>Summer delivers peak beach weather but intense heat and humidity that can challenge all-day activities. The heat drives more people to beaches and indoor venues with air conditioning. Summer bachelorettes work well for groups prioritizing beach time over extensive walking tours or daytime downtown activities. Afternoon thunderstorms are common but typically brief, so have indoor backup plans ready.</p>
+            
+            <h3>Winter Opportunities (December-February)</h3>
+            <p>Winter bachelorettes benefit from lower costs, fewer crowds, and mild temperatures compared to northern cities. While beach swimming may be cold, beach walks and coastal activities remain pleasant. Downtown nightlife and dining continue year-round with full energy. Winter works particularly well for budget-conscious groups or those who prefer less crowded venues where service and attention improve.</p>
+            
+            <h3>Weekend vs. Weekday Timing</h3>
+            <p>Most bachelorettes target Friday-Sunday weekends for obvious reasons, but this creates peak competition for accommodations and venues. Consider Thursday-Saturday or Sunday-Tuesday alternatives if schedules allow. Weekday celebrations often enjoy better service, less crowded venues, and significant cost savings while maintaining access to Charleston's full entertainment scene.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Accommodation Strategies for Bachelorette Groups</h2>
+            <p>Where you stay significantly impacts your bachelorette experience and requires thoughtful consideration.</p>
+            
+            <h3>Vacation Rental Homes</h3>
+            <p>Large rental homes or apartments provide the most popular bachelorette accommodation option. Private space lets you get ready together, pre-game before going out, and decompress after late nights without disturbing other guests. Full kitchens enable group breakfasts and budget-friendly meals. Common areas create natural gathering spaces for bonding time. Downtown Charleston and beach area rentals both work well depending on whether you prioritize nightlife access or beach proximity.</p>
+            
+            <h3>Hotel Accommodations</h3>
+            <p>Hotels offer convenience, amenities, and services that some groups prefer over vacation rentals. Downtown hotels put you in the middle of nightlife with minimal walking. Hotel restaurants and bars provide convenient options. Room service and daily cleaning eliminate certain responsibilities. However, hotels lack the communal spaces and privacy of rental homes, and spreading across multiple rooms can fragment the group.</p>
+            
+            <h3>Location Priorities</h3>
+            <p>For nightlife-focused bachelorettes, staying on or near Upper King Street is ideal. You can walk to virtually any bar or club and easily return home between venues or at night's end. For beach-focused weekends, Isle of Palms or Folly Beach accommodations make sense. Some groups split the difference with Mount Pleasant locations offering access to both Charleston and beaches within short drives.</p>
+        </section>
+
+        <div class="pro-tip">
+            <strong>Pro Tip:</strong> Book accommodations with more bedrooms than you think you need. Extra bedrooms provide space for people who want quiet sleep away from late-night revelers, prevent conflict over room assignments, and create backup options if group dynamics shift during the weekend.
+        </div>
+
+        <section class="content-section">
+            <h2>Sample Bachelorette Itineraries</h2>
+            <p>These sample itineraries provide frameworks you can adapt based on your bride's preferences and group dynamics.</p>
+            
+            <div class="itinerary-box">
+                <h4>The Classic Charleston Bach Weekend</h4>
+                <p><strong>Friday:</strong> Arrive and check in by 4 PM. Settle into accommodation, get ready together with champagne. Early dinner at a downtown restaurant (6:30 PM). Bar crawl on Upper King Street starting around 9 PM. Dance at clubs until closing.</p>
+                <p><strong>Saturday:</strong> Sleep in and recover. Brunch at 11 AM. Beach time at Isle of Palms 1-5 PM. Return to freshen up. Upscale dinner at 7:30 PM. Rooftop bar cocktails at 9:30 PM. More nightlife and entertainment until closing.</p>
+                <p><strong>Sunday:</strong> Group breakfast at accommodation. Final Charleston activity like Waterfront Park walk or shopping. Check out and depart by 2 PM.</p>
+            </div>
+
+            <div class="itinerary-box">
+                <h4>The Beach-Focused Bachelorette</h4>
+                <p><strong>Friday:</strong> Arrive early afternoon. Head straight to Folly Beach for beach party and sunset. Dinner at beachfront restaurant. Explore Folly Beach nightlife.</p>
+                <p><strong>Saturday:</strong> Beach morning at Isle of Palms. Afternoon boat cruise on Charleston Harbor. Evening in downtown Charleston for dinner and Upper King Street nightlife.</p>
+                <p><strong>Sunday:</strong> Brunch at Shem Creek waterfront. Final beach visit or pool time. Depart afternoon.</p>
+            </div>
+
+            <div class="itinerary-box">
+                <h4>The Elevated Sophisticated Bach</h4>
+                <p><strong>Friday:</strong> Late afternoon arrival. Spa services at accommodation or local spa. Sophisticated dinner at upscale restaurant. Craft cocktails at premium lounges. Live music venue or jazz club.</p>
+                <p><strong>Saturday:</strong> Private cooking class or food tour. Afternoon harbor cruise with champagne. Getting-ready party at accommodation. Tasting menu dinner at acclaimed restaurant. Nightcaps at rooftop bars with city views.</p>
+                <p><strong>Sunday:</strong> Elegant brunch. Historic district carriage tour. Wine tasting or shopping. Depart afternoon.</p>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <h2>Activities Beyond Nightlife</h2>
+            <p>While nightlife often dominates bachelorette weekends, daytime and alternative activities add dimension and create balanced experiences.</p>
+            
+            <h3>Beach Days</h3>
+            <p>Charleston's beach access is a major advantage. Isle of Palms offers the most developed beach scene with restaurants and bars nearby. Folly Beach provides a more laid-back surf town vibe. Sullivan's Island maintains a quieter, local feel. Rent cabanas or bring elaborate setups with music, games, and refreshments. Beach days provide natural bonding time and photo opportunities while giving livers a break from constant drinking.</p>
+            
+            <h3>Boat Cruises and Water Activities</h3>
+            <p>Private boat charters create memorable experiences away from crowds. Sunset cruises showcase Charleston Harbor's beauty while providing party atmospheres. Some groups add kayaking, paddleboarding, or other water activities for active elements. These experiences feel special and exclusive while differentiating your bachelorette from standard bar-hopping weekends.</p>
+            
+            <h3>Food Experiences</h3>
+            <p>Charleston's culinary reputation enables food-focused activities. Cooking classes teach Lowcountry cuisine while creating group bonding. Food tours explore Charleston's restaurant scene with guided tastings. Oyster roasts provide authentic local experiences. These activities satisfy foodies while offering alternatives to beach and drinking activities.</p>
+            
+            <h3>Spa and Pampering</h3>
+            <p>Many bachelorettes incorporate spa time for relaxation and pampering. Book group spa services at your accommodation or visit Charleston spas. Massages, facials, manicures, and other treatments help everyone look and feel their best while providing downtime that balances high-energy activities. Morning spa sessions work particularly well before big evenings out.</p>
+        </section>
+
+        <div class="cta-box">
+            <h3>Create an Unforgettable Night</h3>
+            <p>Professional entertainment that takes your bachelorette celebration to the next level</p>
+            <a href="https://michaelatyourplace.com" class="cta-button">Explore Options</a>
+        </div>
+
+        <section class="content-section">
+            <h2>Charleston Nightlife for Bachelorette Groups</h2>
+            <p>Nightlife typically anchors Charleston bachelorettes. Understanding the scene helps you plan optimal evenings.</p>
+            
+            <h3>Bar Crawl Strategy</h3>
+            <p>Upper King Street's concentration of bars and clubs makes it perfect for bachelorette bar crawls. Start around 9 PM at more relaxed venues for drinks and appetizers. Progress to higher-energy bars as the night advances. Hit dance clubs around 11 PM when they're getting busy. Plan 3-5 venue stops to maintain momentum without rushing. Wearing matching outfits or accessories helps keep your group visible and together in crowded venues.</p>
+            
+            <h3>VIP and Bottle Service</h3>
+            <p>Some venues offer VIP sections or bottle service for groups willing to commit to minimum spending. This guarantees seating, provides dedicated service, and creates exclusive experiences that make the bride feel special. While more expensive than paying individually, bottle service often provides better value than buying drinks separately while elevating the celebration's premium feel.</p>
+            
+            <h3>Live Music and Entertainment</h3>
+            <p>Charleston's live music scene offers alternatives to standard club experiences. Various venues feature bands ranging from cover acts to original artists. Live music creates energy while still allowing conversation. Some bachelorettes prefer this vibe over DJ-driven dance clubs, especially for groups with diverse musical tastes or varying energy levels.</p>
+            
+            <h3>Rooftop and Waterfront Venues</h3>
+            <p>Charleston's rooftop bars and waterfront venues provide stunning views alongside drinks and entertainment. These spots work well for starting or ending evenings, offering sophisticated atmospheres that photograph beautifully. The views add special elements that make celebrations feel more elevated than standard bar experiences.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Budget Planning for Charleston Bachelorettes</h2>
+            <p>Charleston bachelorette costs vary widely based on choices and priorities. Strategic planning helps you create amazing weekends at various price points.</p>
+            
+            <h3>Cost Breakdown by Category</h3>
+            <p>Accommodations typically represent the largest expense, ranging from $100-300+ per person for weekend stays depending on property type and location. Food and beverage costs accumulate quickly with group dinners, bar tabs, and daytime meals—budget $150-300 per person for moderate spending. Activities like boat charters, spa services, or special experiences add $50-200+ per person. Transportation including flights, rideshares, and airport transfers varies by origin and needs. Total weekend costs typically range from $400-1000+ per person depending on choices.</p>
+            
+            <h3>Splitting Costs Fairly</h3>
+            <p>Most bachelorette groups split shared costs equally while covering the bride's expenses. Clearly communicate cost expectations before booking anything. Some groups have attendees pay for their own drinks and meals while splitting accommodation and activities. Others pool all money and pay for everything collectively. Choose the approach that matches your group's preferences and prevents awkward money discussions during the celebration.</p>
+            
+            <h3>Money-Saving Strategies</h3>
+            <p>Visit during shoulder or off-season for accommodation savings. Book far in advance for better rates. Mix high-end splurges with budget-friendly options rather than maintaining constant expense levels. Take advantage of happy hours and drink specials. Prepare some meals at your accommodation. Choose free activities like beach time and downtown walking over paid attractions. Strategic savings in some areas funds splurges in others.</p>
+        </section>
+
+        <div class="pro-tip">
+            <strong>Pro Tip:</strong> Create a shared fund for bride expenses. Have each attendee contribute a set amount (like $50-100) at the start of the weekend. Use this fund to cover the bride's drinks, meals, and entertainment throughout the weekend. This eliminates awkward moments of calculating who owes what and ensures the bride feels celebrated without financial stress.
+        </div>
+
+        <section class="content-section">
+            <h2>Managing Group Dynamics</h2>
+            <p>Bachelorette parties bring together women with different relationships to the bride, varying ages, and diverse preferences. Managing these dynamics ensures everyone enjoys the weekend.</p>
+            
+            <h3>Communication Before the Trip</h3>
+            <p>Share detailed information early including itinerary, budget expectations, packing suggestions, and accommodation details. Use group messaging to facilitate discussion and answer questions. The more informed everyone feels, the smoother the weekend runs. Address potential issues like budget concerns or activity preferences before arriving in Charleston.</p>
+            
+            <h3>Flexibility and Options</h3>
+            <p>Not everyone needs to do everything together. Build flexibility for people to opt out of certain activities without guilt. Some attendees may skip late nights or prefer quieter activities. Having a structured main plan with optional elements accommodates different needs while maintaining group cohesion for key moments.</p>
+            
+            <h3>Designating Leadership</h3>
+            <p>Have one or two people serve as organizers responsible for logistics, timing, and decision-making. This prevents confusion about what's happening and when. The bride should enjoy her celebration rather than managing details, so organizers handle the behind-the-scenes coordination that makes weekends flow smoothly.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Charleston Bachelorette Logistics</h2>
+            <p>Attention to practical details prevents problems and keeps celebrations running smoothly.</p>
+            
+            <h3>Transportation Planning</h3>
+            <p>Most bachelorettes fly into Charleston International Airport. Arrange airport transfers in advance whether that means rideshares, rental cars, or car services. For moving around Charleston, downtown's walkability is excellent, but have rideshare apps ready for longer distances or late nights. Some groups hire party buses or car services for the entire weekend to eliminate transportation concerns.</p>
+            
+            <h3>Restaurant Reservations</h3>
+            <p>Make dinner reservations as far in advance as possible, especially for larger groups. Mention you're celebrating a bachelorette when booking—some restaurants offer special accommodations. Confirm reservations a few days before and provide accurate headcounts. Have backup restaurant options in case plans change or reservations fall through.</p>
+            
+            <h3>Emergency Planning</h3>
+            <p>Create a contact list with everyone's phone numbers. Establish meeting points if people get separated. Know where urgent care facilities and hospitals are located. Have a designated sober person or car service on call for emergencies. These precautions provide peace of mind and ensure quick responses if problems arise.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Making It Memorable</h2>
+            <p>Great bachelorette weekends create lasting memories through thoughtful touches and special moments.</p>
+            
+            <h3>Personal Touches</h3>
+            <p>Add elements specific to the bride including her favorite drinks, foods, or activities. Inside jokes, shared memories, and personal references show thought and care. These details transform generic bachelorettes into celebrations that feel uniquely hers.</p>
+            
+            <h3>Surprise Elements</h3>
+            <p>Well-executed surprises elevate celebrations. This might mean unexpected entertainment, a special gift presentation, surprise guests, or unique activities not on the published itinerary. Surprises create excitement and demonstrate extra effort that makes the bride feel truly celebrated.</p>
+            
+            <h3>Documentation</h3>
+            <p>Designate someone to capture photos and videos throughout the weekend. Create shared photo albums where everyone contributes. Consider hiring a photographer for key moments to ensure quality documentation without relying on phone cameras. These memories become increasingly valuable as time passes, making documentation efforts worthwhile investments.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Final Advice for Charleston Bachelorette Success</h2>
+            <p>Charleston bachelorette parties succeed when organizers balance thorough planning with flexibility and focus. Start planning early to secure good accommodations and reservations. Communicate clearly with all attendees about expectations, costs, and itinerary. Build in flexibility for spontaneous decisions and energy management.</p>
+            <p>Remember that the best bachelorette weekends prioritize the bride's happiness and creating meaningful experiences over checking boxes on activity lists. Charleston provides the perfect backdrop with its beauty, entertainment options, and welcoming atmosphere. Your job as organizer is creating the framework that lets the celebration unfold naturally while minimizing stress and maximizing joy.</p>
+            <p>Don't let perfect become the enemy of good. Charleston forgives planning imperfections with its charm and abundant entertainment options. Focus on making the bride feel celebrated, keeping the group happy and together, and creating the memories that make bachelorette weekends special. Charleston will take care of the rest.</p>
+        </section>
+
+        <div class="related-links">
+            <h3>Continue Your Charleston Event Planning</h3>
+            <ul>
+                <li><a href="index.html">← Back to Charleston Events Guide</a></li>
+                <li><a href="downtown-nightlife.html">Explore Charleston Nightlife</a></li>
+                <li><a href="party-planning.html">General Party Planning Tips</a></li>
+                <li><a href="celebration-ideas.html">Get More Celebration Ideas</a></li>
+                <li><a href="event-venues.html">Browse Event Venues</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Charleston Events & Entertainment Guide. All rights reserved.</p>
+        <p><a href="index.html">Return to Charleston Events Home</a></p>
+    </footer>
+</body>
+</html>
